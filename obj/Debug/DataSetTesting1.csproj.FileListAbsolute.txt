@@ -1,0 +1,12 @@
+C:\Users\ralphromano\source\repos\DataSetTesting1\bin\Debug\DataSetTesting1.exe.config
+C:\Users\ralphromano\source\repos\DataSetTesting1\bin\Debug\DataSetTesting1.exe
+C:\Users\ralphromano\source\repos\DataSetTesting1\bin\Debug\DataSetTesting1.pdb
+C:\Users\ralphromano\source\repos\DataSetTesting1\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.csproj.AssemblyReference.cache
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.Main.resources
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.Properties.Resources.resources
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.csproj.GenerateResource.cache
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.csproj.CoreCompileInputs.cache
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.csproj.CopyComplete
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.exe
+C:\Users\ralphromano\source\repos\DataSetTesting1\obj\Debug\DataSetTesting1.pdb
